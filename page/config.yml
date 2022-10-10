@@ -1,0 +1,23 @@
+col:
+ - 常用Common
+ - 搜索Search
+
+常用Common:
+ -
+   name: Apple
+   desc: Apple 苹果官网
+   url: https://www.apple.com
+ -
+   name: Microsoft
+   desc: 微软官网
+   url: https://www.baidu.com
+   
+搜索Search:
+ -
+   name: 百度Baidu
+   desc: 百度搜索Baidu search
+   url: https://www.baidu.com
+ -
+   name: Google
+   desc: Google search
+   url: https://www.Google.com
