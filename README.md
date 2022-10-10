@@ -1,0 +1,2 @@
+# simnavi
+simple navigation page
